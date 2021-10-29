@@ -25,7 +25,7 @@ html, body {height:100%;}
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(92, 39, 190);
 }
 
 .topnav a {
@@ -39,7 +39,7 @@ html, body {height:100%;}
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #800880;
   color: white;
 }
 
@@ -82,7 +82,7 @@ html, body {height:100%;}
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
+  background-color: #8d1ab1;
   color: white;
 }
 
@@ -125,9 +125,10 @@ html, body {height:100%;}
     text-align: left;
   }
 }
+
 #footer {
   padding: 10px;
-  background-color: #8d1ab1;
+  background-color: #800880;
   color: white;
   font-size: 20px;
   text-align: left;
